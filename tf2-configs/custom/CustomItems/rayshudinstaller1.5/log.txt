@@ -1,0 +1,238 @@
+2014-05-21T11:05:45 - ====================
+2014-05-21T11:05:45 - Downloading new copy of the hud
+2014-05-21T11:05:50 - Download Completed
+2014-05-21T11:05:50 - Deleting old files.
+2014-05-21T11:05:50 - Extracting new hud files from zip.
+2014-05-21T11:05:51 - Copying files out of rayshud-master.
+2014-05-21T11:05:51 - Copying appropriate files for aspect ratio selection.
+2014-05-21T11:05:51 - Copying appropriate files for scoreboard selection.
+2014-05-21T11:05:51 - Configuring crosshairs.
+2014-05-21T11:05:51 - Configuring health colors.
+2014-05-21T11:05:51 - Configuring ammo colors.
+2014-05-21T11:05:51 - Configuring ammo effect to: blink.
+2014-05-21T11:05:51 - Configuring damage number size.
+2014-05-21T11:05:51 - Configuring last damage position.
+2014-05-21T11:05:51 - Configuring damage number colors.
+2014-05-21T11:05:51 - Configuring ubercharge colors.
+2014-05-21T11:05:51 - Configuring chatbox location.
+2014-05-21T11:05:51 - Configuring team/class select location.
+2014-05-21T11:05:51 - Configuring minimal ctf display.
+2014-05-21T11:05:51 - Configuring spy disguise image.
+2014-05-21T11:05:51 - Updating files.
+2014-05-21T11:05:51 - Cleaning up.
+2014-05-21T11:05:51 - Updating installer appearance.
+2014-05-21T11:05:52 - Saving control states to xml.
+2014-05-21T11:05:52 - Displaying message box to user.
+2014-05-21T11:05:55 - Installation complete.
+2014-05-25T07:29:02 - ====================
+2014-05-25T07:29:02 - Downloading new copy of the hud
+2014-05-25T07:29:07 - Download Completed
+2014-05-25T07:29:07 - Deleting old files.
+2014-05-25T07:29:07 - Extracting new hud files from zip.
+2014-05-25T07:29:08 - Copying files out of rayshud-master.
+2014-05-25T07:29:08 - Copying appropriate files for aspect ratio selection.
+2014-05-25T07:29:08 - Copying appropriate files for scoreboard selection.
+2014-05-25T07:29:08 - Configuring crosshairs.
+2014-05-25T07:29:08 - Configuring health colors.
+2014-05-25T07:29:09 - Configuring ammo colors.
+2014-05-25T07:29:09 - Configuring ammo effect to: blink.
+2014-05-25T07:29:09 - Configuring damage number size.
+2014-05-25T07:29:09 - Configuring last damage position.
+2014-05-25T07:29:09 - Configuring damage number colors.
+2014-05-25T07:29:09 - Configuring ubercharge colors.
+2014-05-25T07:29:09 - Configuring chatbox location.
+2014-05-25T07:29:09 - Configuring team/class select location.
+2014-05-25T07:29:09 - Configuring minimal ctf display.
+2014-05-25T07:29:09 - Configuring spy disguise image.
+2014-05-25T07:29:09 - Updating files.
+2014-05-25T07:29:09 - Cleaning up.
+2014-05-25T07:29:09 - Updating installer appearance.
+2014-05-25T07:29:10 - Saving control states to xml.
+2014-05-25T07:29:10 - Displaying message box to user.
+2014-05-25T07:29:12 - Installation complete.
+2014-06-12T15:56:33 - ====================
+2014-06-12T15:56:33 - Downloading new copy of the hud
+2014-06-12T15:56:37 - Download Completed
+2014-06-12T15:56:37 - Deleting old files.
+2014-06-12T15:56:37 - Extracting new hud files from zip.
+2014-06-12T15:56:39 - Copying files out of rayshud-master.
+2014-06-12T15:56:39 - Copying appropriate files for aspect ratio selection.
+2014-06-12T15:56:39 - Copying appropriate files for scoreboard selection.
+2014-06-12T15:56:39 - Configuring crosshairs.
+2014-06-12T15:56:40 - Configuring health colors.
+2014-06-12T15:56:40 - Configuring ammo colors.
+2014-06-12T15:56:40 - Configuring ammo effect to: blink.
+2014-06-12T15:56:40 - Configuring damage number size.
+2014-06-12T15:56:40 - Configuring last damage position.
+2014-06-12T15:56:40 - Configuring damage number colors.
+2014-06-12T15:56:40 - Configuring ubercharge colors.
+2014-06-12T15:56:40 - Configuring chatbox location.
+2014-06-12T15:56:40 - Configuring team/class select location.
+2014-06-12T15:56:40 - Configuring minimal ctf display.
+2014-06-12T15:56:40 - Configuring spy disguise image.
+2014-06-12T15:56:40 - Updating files.
+2014-06-12T15:56:40 - Cleaning up.
+2014-06-12T15:56:40 - Updating installer appearance.
+2014-06-12T15:56:41 - Saving control states to xml.
+2014-06-12T15:56:41 - Displaying message box to user.
+2014-06-12T15:57:08 - Installation complete.
+2014-06-12T16:11:15 - ====================
+2014-06-12T16:11:15 - Downloading new copy of the hud
+2014-06-12T16:11:20 - Download Completed
+2014-06-12T16:11:20 - Deleting old files.
+2014-06-12T16:11:20 - Extracting new hud files from zip.
+2014-06-12T16:11:22 - Copying files out of rayshud-master.
+2014-06-12T16:11:22 - Copying appropriate files for aspect ratio selection.
+2014-06-12T16:11:22 - Copying appropriate files for scoreboard selection.
+2014-06-12T16:11:22 - Configuring crosshairs.
+2014-06-12T16:11:22 - Configuring health colors.
+2014-06-12T16:11:22 - Configuring ammo colors.
+2014-06-12T16:11:22 - Configuring ammo effect to: blink.
+2014-06-12T16:11:22 - Configuring damage number size.
+2014-06-12T16:11:22 - Configuring last damage position.
+2014-06-12T16:11:22 - Configuring damage number colors.
+2014-06-12T16:11:22 - Configuring ubercharge colors.
+2014-06-12T16:11:22 - Configuring chatbox location.
+2014-06-12T16:11:22 - Configuring team/class select location.
+2014-06-12T16:11:22 - Configuring minimal ctf display.
+2014-06-12T16:11:22 - Configuring spy disguise image.
+2014-06-12T16:11:22 - Updating files.
+2014-06-12T16:11:22 - Cleaning up.
+2014-06-12T16:11:23 - Updating installer appearance.
+2014-06-12T16:11:23 - Saving control states to xml.
+2014-06-12T16:11:23 - Displaying message box to user.
+2014-06-12T16:11:24 - Installation complete.
+2014-06-19T08:39:57 - ====================
+2014-06-19T08:39:57 - Downloading new copy of the hud
+2014-06-19T08:40:02 - Download Completed
+2014-06-19T08:40:02 - Deleting old files.
+2014-06-19T08:40:02 - Extracting new hud files from zip.
+2014-06-19T08:40:04 - Copying files out of rayshud-master.
+2014-06-19T08:40:04 - Copying appropriate files for aspect ratio selection.
+2014-06-19T08:40:04 - Copying appropriate files for scoreboard selection.
+2014-06-19T08:40:04 - Configuring crosshairs.
+2014-06-19T08:40:04 - Configuring health colors.
+2014-06-19T08:40:04 - Configuring ammo colors.
+2014-06-19T08:40:04 - Configuring ammo effect to: blink.
+2014-06-19T08:40:04 - Configuring damage number size.
+2014-06-19T08:40:04 - Configuring last damage position.
+2014-06-19T08:40:04 - Configuring damage number colors.
+2014-06-19T08:40:04 - Configuring ubercharge colors.
+2014-06-19T08:40:04 - Configuring chatbox location.
+2014-06-19T08:40:04 - Configuring team/class select location.
+2014-06-19T08:40:04 - Configuring minimal ctf display.
+2014-06-19T08:40:04 - Configuring spy disguise image.
+2014-06-19T08:40:04 - Updating files.
+2014-06-19T08:40:04 - Cleaning up.
+2014-06-19T08:40:05 - Updating installer appearance.
+2014-06-19T08:40:06 - Saving control states to xml.
+2014-06-19T08:40:06 - Displaying message box to user.
+2014-06-19T08:41:26 - Installation complete.
+2014-07-04T13:29:06 - ====================
+2014-07-04T13:29:06 - Downloading new copy of the hud
+2014-07-04T13:29:10 - Download Completed
+2014-07-04T13:29:10 - Deleting old files.
+2014-07-04T13:29:11 - Extracting new hud files from zip.
+2014-07-04T13:29:13 - Copying files out of rayshud-master.
+2014-07-04T13:29:14 - Copying appropriate files for aspect ratio selection.
+2014-07-04T13:29:14 - Copying appropriate files for scoreboard selection.
+2014-07-04T13:29:14 - Configuring crosshairs.
+2014-07-04T13:29:14 - Configuring health colors.
+2014-07-04T13:29:14 - Configuring ammo colors.
+2014-07-04T13:29:14 - Configuring ammo effect to: blink.
+2014-07-04T13:29:14 - Configuring damage number size.
+2014-07-04T13:29:14 - Configuring last damage position.
+2014-07-04T13:29:14 - Configuring damage number colors.
+2014-07-04T13:29:14 - Configuring ubercharge colors.
+2014-07-04T13:29:14 - Adding uber animations.
+2014-07-04T13:29:14 - Configuring chatbox location.
+2014-07-04T13:29:14 - Configuring team/class select location.
+2014-07-04T13:29:14 - Configuring minimal ctf display.
+2014-07-04T13:29:14 - Configuring spy disguise image.
+2014-07-04T13:29:14 - Updating files.
+2014-07-04T13:29:14 - Cleaning up.
+2014-07-04T13:29:15 - Updating installer appearance.
+2014-07-04T13:29:15 - Saving control states to xml.
+2014-07-04T13:29:15 - Displaying message box to user.
+2014-07-04T13:29:17 - Installation complete.
+2014-07-09T08:16:42 - ====================
+2014-07-09T08:16:42 - Downloading new copy of the hud
+2014-07-09T08:16:47 - Download Completed
+2014-07-09T08:16:47 - Deleting old files.
+2014-07-09T08:16:48 - Extracting new hud files from zip.
+2014-07-09T08:16:49 - Copying files out of rayshud-master.
+2014-07-09T08:16:49 - Copying appropriate files for aspect ratio selection.
+2014-07-09T08:16:49 - Copying appropriate files for scoreboard selection.
+2014-07-09T08:16:49 - Configuring crosshairs.
+2014-07-09T08:16:49 - Configuring health colors.
+2014-07-09T08:16:50 - Configuring ammo colors.
+2014-07-09T08:16:50 - Configuring ammo effect to: blink.
+2014-07-09T08:16:50 - Configuring damage number size.
+2014-07-09T08:16:50 - Configuring last damage position.
+2014-07-09T08:16:50 - Configuring damage number colors.
+2014-07-09T08:16:50 - Configuring ubercharge colors.
+2014-07-09T08:16:50 - Adding uber animations.
+2014-07-09T08:16:50 - Configuring chatbox location.
+2014-07-09T08:16:50 - Configuring team/class select location.
+2014-07-09T08:16:50 - Configuring minimal ctf display.
+2014-07-09T08:16:50 - Configuring spy disguise image.
+2014-07-09T08:16:50 - Updating files.
+2014-07-09T08:16:50 - Cleaning up.
+2014-07-09T08:16:51 - Updating installer appearance.
+2014-07-09T08:16:52 - Saving control states to xml.
+2014-07-09T08:16:52 - Displaying message box to user.
+2014-07-09T08:16:53 - Installation complete.
+2014-07-10T10:09:30 - ====================
+2014-07-10T10:09:30 - Downloading new copy of the hud
+2014-07-10T10:09:34 - Download Completed
+2014-07-10T10:09:34 - Deleting old files.
+2014-07-10T10:09:34 - Extracting new hud files from zip.
+2014-07-10T10:09:36 - Copying files out of rayshud-master.
+2014-07-10T10:09:36 - Copying appropriate files for aspect ratio selection.
+2014-07-10T10:09:36 - Copying appropriate files for scoreboard selection.
+2014-07-10T10:09:36 - Configuring crosshairs.
+2014-07-10T10:09:36 - Configuring health colors.
+2014-07-10T10:09:36 - Configuring ammo colors.
+2014-07-10T10:09:36 - Configuring ammo effect to: blink.
+2014-07-10T10:09:36 - Configuring damage number size.
+2014-07-10T10:09:36 - Configuring last damage position.
+2014-07-10T10:09:36 - Configuring damage number colors.
+2014-07-10T10:09:36 - Configuring ubercharge colors.
+2014-07-10T10:09:36 - Adding uber animations.
+2014-07-10T10:09:36 - Configuring chatbox location.
+2014-07-10T10:09:36 - Configuring team/class select location.
+2014-07-10T10:09:36 - Configuring minimal ctf display.
+2014-07-10T10:09:36 - Configuring spy disguise image.
+2014-07-10T10:09:36 - Updating files.
+2014-07-10T10:09:36 - Cleaning up.
+2014-07-10T10:09:36 - Updating installer appearance.
+2014-07-10T10:09:37 - Saving control states to xml.
+2014-07-10T10:09:37 - Displaying message box to user.
+2014-07-10T10:09:38 - Installation complete.
+2014-07-16T11:05:28 - ====================
+2014-07-16T11:05:28 - Downloading new copy of the hud
+2014-07-16T11:05:33 - Download Completed
+2014-07-16T11:05:33 - Deleting old files.
+2014-07-16T11:05:33 - Extracting new hud files from zip.
+2014-07-16T11:05:35 - Copying files out of rayshud-master.
+2014-07-16T11:05:35 - Copying appropriate files for aspect ratio selection.
+2014-07-16T11:05:35 - Copying appropriate files for scoreboard selection.
+2014-07-16T11:05:35 - Configuring crosshairs.
+2014-07-16T11:05:35 - Configuring health colors.
+2014-07-16T11:05:35 - Configuring ammo colors.
+2014-07-16T11:05:35 - Configuring ammo effect to: blink.
+2014-07-16T11:05:35 - Configuring damage number size.
+2014-07-16T11:05:35 - Configuring last damage position.
+2014-07-16T11:05:35 - Configuring damage number colors.
+2014-07-16T11:05:35 - Configuring ubercharge colors.
+2014-07-16T11:05:35 - Adding uber animations.
+2014-07-16T11:05:35 - Configuring chatbox location.
+2014-07-16T11:05:35 - Configuring team/class select location.
+2014-07-16T11:05:35 - Configuring minimal ctf display.
+2014-07-16T11:05:35 - Configuring spy disguise image.
+2014-07-16T11:05:35 - Updating files.
+2014-07-16T11:05:35 - Cleaning up.
+2014-07-16T11:05:36 - Updating installer appearance.
+2014-07-16T11:05:37 - Saving control states to xml.
+2014-07-16T11:05:38 - Displaying message box to user.
+2014-07-16T11:05:39 - Installation complete.

@@ -1,0 +1,47 @@
+Update 1.5 9/16/13:
+-Fixes an issue that caused the installer to crash when updating.
+-Fixes an issue that caused the hud files to not all be deleted when hitting remove.
+-Minimal CTF Display is not checked when you select the minimal hud version.
+-Removed the backup checkbox.
+-Fixed an issue that would cause things to break with minmode
+-Changed the way enabling the healthcross works, add options for numbers in cross and team color line with just text.
+-Added option to use the alternate font
+-Added option to get rid of the custom striped background.
+
+Update 1.4 8/16/13:
+-Fixes materials not getting copied over properly
+
+Update 1.3 4/25/13:
+-Now works with steampipe
+
+
+Update 1.2 4/19/13:
+-Crosshair position is now based off of the aspect ratio/resolution selections. All of the listed resolutions are supported!
+-Crosshair setting selections will not maintain their state between sessions like the rest of the options.
+
+
+Update 1.1 4/15/13:
+-Fixed uber bar color changing back to the default color after an uber expired
+-Fixed a bug with controls being disabled at the wrong times
+
+-Added color selection for heal numbers
+-Added controls will maintain their state between sessions, so if you select a health color, it will remain the same the next time you launch the installer. To revert to defaults, hit the default button. *THIS DOES NOT WORK FOR THE CROSSHAIR TAB YET*
+-Added crosshairs that were missing. (ThinCross, KonrWings, and the FighterPilot) 
+
+-Completely Reworked the crosshair tab. It will hopefully be less terrible. You can now enable multiple crosshairs.
+
+
+
+Release 1.0 4/12/13:
+-The ability to backup previous versions of your hud (stored in the folder rayshud_backups in your tf folder)
+-The ability to change your own health colors
+-The option to enable a health cross/team colored border
+-THe ability to change your own ammo colors
+-The ability to choose between effects/customize low ammo colors
+-The ability to change damage number size, color, and outline
+-The ability to change the last damage done location and color
+-The ability to change the color of the Ubercharge bar
+-The ability to change the effect/customize colors for an uber
+-The ability to change the chatbox location
+-The ability to toggle between the oldschool, middle team/class select screens and the new left team/class select screens
+-The ability to enable spy disguise images

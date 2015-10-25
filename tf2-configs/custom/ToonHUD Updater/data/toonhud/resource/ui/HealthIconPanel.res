@@ -1,0 +1,25 @@
+"Resource/UI/HealthIconPanel.res"
+{
+	"SpectatorGUIHealth"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"SpectatorGUIHealth"
+		"xpos"			"17"
+		"xpos_minmode"	"0"
+		"ypos"			"30"
+		"ypos_minmode"	"0"
+		"wide"			"23"
+		"tall"			"23"
+		"visible"		"1"
+		"enabled"		"1"	
+		"TFFont"		"G_FontTiny"
+		"TextColor"		"G_White"
+		"paintborder"		"1"
+		"paintbackground"	"1"
+		"border"			"G_HealthBorder"
+		"bgcolor_override"	"G_HealthBarBg"
+		"HealthBonusPosAdj"			"0"
+		"HealthDeathWarning"		"0.49"
+		"HealthDeathWarningColor"	"HUDDeathWarning"
+	}	
+}

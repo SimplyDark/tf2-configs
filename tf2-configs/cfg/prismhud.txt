@@ -1,0 +1,50 @@
+// This is prismhud's cfg 
+// Here you can edit all script-based options in the hud 
+// DO NOT REMOVE THE ''alias pcfg_xxx none'' that shows up 
+// if you want to revert to default, delete this file and run tf2 once 
+ 
+alias pcfg_baseinfo none 
+alias pcfg_firstrun_cmds none 
+ 
+ 
+// Put your server connect info here, for the main menu buttons 
+// should be in the form of ''connect 127.0.0.1:27015'' or ''connect 127.0.0.1:27015;password abc123'' 
+alias prh_server1 ServerConnectInfo 
+alias prh_server2 ServerConnectInfo 
+alias prh_server3 ServerConnectInfo 
+alias prh_server4 ServerConnectInfo 
+alias prh_server5 ServerConnectInfo 
+ 
+alias pcfg_servers none 
+ 
+ 
+// Change the height of health and ammo 
+// 0=Normal, 1=Lower, 2=Higher, 3=Cornered 
+pcfg_hudpos=0 
+ 
+alias pcfg_hudpos none 
+ 
+ 
+// Change the svc mode 
+// svc is what prismhud uses for the hud's sv_cheats only commands 
+// if it's on then sv_cheats will become 1 right before the command and become 0 right after 
+// 0=disabled, 1=enabled normally, 2=enabled for rcon 
+pcfg_svcmode=0 
+ 
+alias pcfg_svcmode none 
+ 
+ 
+// Change the opacity of your viewmodels 
+// 0=Fully opaque, 1=Transparent, 2=Even more transparent 
+pcfg_vmalpha=0 
+ 
+alias pcfg_vmalpha none 
+ 
+ 
+// Add a teamcolored bar under the health 
+// 0=No, 1=Yes 
+pcfg_teambar=0 
+ 
+alias pcfg_teambar none 
+ 
+ 

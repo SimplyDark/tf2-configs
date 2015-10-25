@@ -1,0 +1,1871 @@
+<?xml version="1.0" encoding="utf-8"?>
+<crosshairs>
+	<aspectratio ratio="4x3">
+		<resolution res="640x480">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-98"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="720x576">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"204"</wide>
+				<tall>"204"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="800x600">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"203"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1024x768">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"202"</wide>
+				<tall>"198"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"203"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1152x864">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"198"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"203"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1280x960">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"203"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1280x1024">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1360x1024">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1400x1050">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"198"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"198"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+	</aspectratio>
+	<aspectratio ratio="16x10">
+		<resolution res="720x480">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"200"</wide>
+				<tall>"198"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1280x768">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"202"</wide>
+				<tall>"198"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1280x800">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"200"</wide>
+				<tall>"198"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1440x900">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"200"</wide>
+				<tall>"198"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"198"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1680x1050">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"198"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"198"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"199"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+	</aspectratio>
+	<aspectratio ratio="16x9">
+		<resolution res="1280x720">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1360x768">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1366x768">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1600x900">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"200"</wide>
+				<tall>"203"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"198"</wide>
+				<tall>"202"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"202"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"199"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+		<resolution res="1920x1080">
+			<crosshair shape="xHairCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-102"</ypos>
+				<wide>"201"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ScatterSpread">
+				<xpos>"c-99"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCross">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossSmall">
+				<xpos>"c-101"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicCrossLarge">
+				<xpos>"c-102"</xpos>
+				<ypos>"c-98"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="BasicDot">
+				<xpos>"c-103"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"201"</wide>
+				<tall>"201"</tall>
+			</crosshair>
+			<crosshair shape="CircleDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCircle">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-96"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsPlus">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="Wings">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmallDot">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="WingsSmall">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-97"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCross">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="OpenCrossDot">
+				<xpos>"c-85"</xpos>
+				<ypos>"c-100"</ypos>
+				<wide>"199"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="ThinCross">
+				<xpos>"c-100"</xpos>
+				<ypos>"c-103"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+			<crosshair shape="KonrWings">
+				<xpos>"c-108"</xpos>
+				<ypos>"c-99"</ypos>
+				<wide>"200"</wide>
+				<tall>"200"</tall>
+			</crosshair>
+		</resolution>
+	</aspectratio>
+</crosshairs>
